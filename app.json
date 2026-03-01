@@ -2,8 +2,8 @@
     "name": "YukkiMusic",
     "description": "A Telegram bot that streams music into group voice chats with seamless playback and control.",
     "keywords": ["telegram", "bot", "music", "go", "voice-chat"],
-    "repository": "https://github.com/TheTeamVivek/YukkiMusic",
-    "website": "https://github.com/TheTeamVivek/YukkiMusic",
+    "repository": "https://github.com/uppermooninfinity/Stellaupdated",
+    "website": "https://github.com/uppermooninfinity/Stellaupdated",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -43,7 +43,7 @@
         },
         "OWNER_ID": {
             "description": "The Telegram user ID of the bot's owner.",
-            "value": "",
+            "value": "7651303468",
             "required": true
         },
         "LOGGER_ID": {
