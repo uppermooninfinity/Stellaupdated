@@ -8,12 +8,12 @@
     "env": {
         "API_ID": {
             "description": "Your Telegram API ID from my.telegram.org.",
-            "value": "",
+            "value": "27795164",
             "required": true
         },
         "API_HASH": {
             "description": "Your Telegram API Hash from my.telegram.org.",
-            "value": "",
+            "value": "931051ff310e587ac41154ed3d516f06",
             "required": true
         },
         "TOKEN": {
@@ -48,7 +48,7 @@
         },
         "LOGGER_ID": {
             "description": "The Telegram chat ID where logs will be sent.",
-            "value": "",
+            "value": "-1003748760283",
             "required": false
         },
         "DURATION_LIMIT": {
@@ -63,22 +63,22 @@
         },
         "QUEUE_LIMIT": {
             "description": "The maximum number of tracks allowed in the queue.",
-            "value": "7",
+            "value": "12",
             "required": false
         },
         "START_IMG_URL": {
             "description": "URL of the image to be displayed on the start message.",
-            "value": "https://raw.githubusercontent.com/Vivekkumar-IN/assets/master/images.png",
+            "value": "https://files.catbox.moe/74w3rx.jpg",
             "required": false
         },
         "SUPPORT_CHAT": {
             "description": "The URL of your support chat.",
-            "value": "https://t.me/TheTeamVk",
+            "value": "https://t.me/snowy_hometown",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "The URL of your support channel.",
-            "value": "https://t.me/TheTeamVivek",
+            "value": "https://t.me/dark_musictm",
             "required": false
         },
         "COOKIES_LINK": {
